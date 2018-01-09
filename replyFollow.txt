@@ -18,9 +18,7 @@ function followed(eventMsg) {
   tweetIt('@' + screenName + ' OvvO');
 }
 
-
 function tweetIt(txt) {
-
 	var tweet = {
 	  status: txt
 	}
